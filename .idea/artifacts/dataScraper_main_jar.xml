@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="dataScraper.main:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/dataScraper_main_jar</output-path>
+    <root id="archive" name="dataScraper.main.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/main/java/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="dataScraper.main" />
+    </root>
+  </artifact>
+</component>
